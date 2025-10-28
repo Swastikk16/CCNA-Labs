@@ -1,4 +1,5 @@
 # CCNA Practice Labs
+![screenshot](imgs/RIP%20Protocol.png)
 
 I studied this course with <a href="https://www.youtube.com/playlist?list=PLE451B5C4C5D5AA94" target="_blank">eng.Hussian Almalki</a>.
 
