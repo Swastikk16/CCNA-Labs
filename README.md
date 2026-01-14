@@ -1,13 +1,31 @@
-# CCNA Practice Labs
+# 📡 CCNA Practice Labs
 ![screenshot](imgs/RIP%20Protocol.png)
 
-I studied this course with <a href="https://www.youtube.com/playlist?list=PLE451B5C4C5D5AA94" target="_blank">eng.Hussian Almalki</a>.
+
+![Cisco Badge](https://img.shields.io/badge/Cisco-CCNA-blue?style=for-the-badge&logo=cisco)
+![Packet Tracer Badge](https://img.shields.io/badge/Tool-Packet%20Tracer-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+> A comprehensive collection of Cisco Packet Tracer labs covering switching, routing, security, and WAN protocols. 
+> These labs serve as practical documentation for the CCNA course concepts.
+
+## 🎓 About This Project
+
+This repository contains practical networking scenarios simulated in **Cisco Packet Tracer**. Each folder/lab includes:
+* 📄 **Network Diagram:** Visual topology of the network.
+* ⌨️ **Command List:** The specific CLI commands used to configure the devices.
+* ⚙️ **The Lab File:** The `.pkt` source file to run the simulation.
+
+**Instructor Credit:** This work is based on the course materials studied with **<a href="https://www.youtube.com/playlist?list=PLE451B5C4C5D5AA94" target="_blank">eng.Hussian Almalki</a>**.
+
+
+---
+
 
 
 `Here are a few tips to get you started:`
 
 - In this **document** you will see small description, capture and link for every **lab**.
-
 - In every lab you will see the network diagram and a list of the commands.
 
 <details>
