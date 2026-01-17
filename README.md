@@ -9,9 +9,6 @@ This repository contains practical networking scenarios simulated in **Cisco Pac
 * ⌨️ **Command List:** The specific CLI commands used to configure the devices.
 * ⚙️ **The Lab File:** The `.pkt` source file to run the simulation.
 
-**Instructor Credit:** This work is based on the course materials studied with **<a href="https://www.youtube.com/playlist?list=PLE451B5C4C5D5AA94" target="_blank">eng.Hussian Almalki</a>**.
-
-
 ---
 
 
